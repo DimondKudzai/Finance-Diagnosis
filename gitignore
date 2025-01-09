@@ -1,0 +1,55 @@
+
+Go build files
+/bin
+/pkg
+
+Go test files
+*_test.go
+test/
+
+
+
+IDE and editor files
+.idea
+.vscode
+*.iml
+*.ipr
+*.iws
+
+Operating system files
+.DS_Store
+Thumbs.db
+
+Miscellaneous files
+*.log
+*.tmp
+*.bak
+
+
+Ignore React build files
+/build
+/dist
+
+Ignore React dependencies
+/node_modules
+
+Ignore IDE and editor files
+/.idea
+/.vscode
+
+Ignore operating system files
+/.DS_Store
+/Thumbs.db
+
+Ignore React component snapshots
+/snapshots
+
+Ignore React coverage reports
+/coverage
+
+
+Ignore environment variables
+/.env
+
+Ignore TypeScript config
+/tsconfig.json
