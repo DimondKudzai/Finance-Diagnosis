@@ -29,8 +29,8 @@ Finance Diagnosis aims to provide businesses and individuals with a comprehensiv
 4.Getting Started
    1.*Fork this repository*: Create a copy of this repository to your GitHub account.
    2.*Clone the repository*: Clone the forked repository to your local machine using `git clone`.
-   3.*Install dependencies*: Install the required dependencies using `go get` and `npm install`.
-   4.*Start the application*: Start the application using `go run` and `npm start`.
+   3.*Install dependencies*: Install the required dependencies using.
+   4.*Start the application*: Start the application.
 
 5.Contribution Guidelines
  *Submit a pull request*: Create a pull request with your changes. While everyone can contribute in the design and development of this platiform, contributors must follow best designing and coding practise.
