@@ -13,7 +13,7 @@ Table of Contents
 7. #community
 
 1.Introduction
-Finance Diagnosis aims to provide businesses with a comprehensive financial analysis tool, enabling them to make informed decisions. This platform is built using Go, PostgreSQL and React, and is completely open-source.
+Finance Diagnosis aims to provide businesses and individuals with a comprehensive financial analysis tool, enabling them to make informed decisions. This platform is built using Go, PostgreSQL and React, and is completely open-source.
 
 2.Features
 - *Financial Data Import and/or input*: Import and input financial data from various sources (e.g., QuickBooks, Xero, CSV files).
@@ -22,7 +22,7 @@ Finance Diagnosis aims to provide businesses with a comprehensive financial anal
 - *Alerts and Notifications*: Receive alerts and notifications when financial anomalies or trends are detected.
 
 3.Technical Requirements
-- *Backend*: Go (Golang) for building the backend API, handling financial data processing, and analysis.
+- *Backend*: Node (Express) for building the backend API, handling financial data processing, and analysis.
 - *Frontend*: React for creating the user interface, dashboards, and visualization components.
 - *Database*: PostgreSQL for storing financial data.
 
